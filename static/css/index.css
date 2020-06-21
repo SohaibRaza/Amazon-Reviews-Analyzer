@@ -1,0 +1,28 @@
+.btn{
+    margin: 10px 0px;
+}
+
+div.plotlyChart {
+    margin: 0 auto;
+}
+
+.loader{
+    margin: 0 0 2em;
+    height: 100px;
+    width: 20%;
+    text-align: center;
+    padding: 1em;
+    margin: 0 auto 1em;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.rect,svg{
+    fill:  #FF6700;
+}
+
+.regButton{
+    display: flex;
+    justify-content: center;
+}
+
