@@ -1,3 +1,5 @@
+![SohaibRaza github stats](https://github-readme-stats.vercel.app/api?username=SohaibRaza&show_icons=true&hide_border=true)
+
 # Amazon-Reviews-Analyzer
 Amazon reviews analysis system
 
@@ -16,4 +18,3 @@ This is the home page contains a URL, put here a Aamazon URL to start scrrapping
 ### Visualization
 
 ![Screen 9](https://user-images.githubusercontent.com/7778803/87692279-cda5f680-c748-11ea-9812-649387e889f5.png)
-
