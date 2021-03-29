@@ -88,7 +88,7 @@ pycodestyle==2.5.0
 pycparser==2.20
 PyDispatcher==2.0.5
 pyflakes==2.1.1
-Pygments==2.6.1
+Pygments==2.7.4
 PyHamcrest==2.0.2
 pyOpenSSL==19.1.0
 pyparsing==2.4.7
