@@ -48,7 +48,7 @@ ipython==5.5.0
 ipython-genutils==0.2.0
 itypes==1.2.0
 Jinja2==2.11.2
-joblib==0.15.1
+joblib==1.2.0
 jsonpickle==1.4.1
 jsonschema==3.2.0
 jupyter-client==6.1.3
